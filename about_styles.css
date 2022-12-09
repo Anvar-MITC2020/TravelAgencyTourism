@@ -801,7 +801,7 @@ section
 .intro_image
 {
     position: absolute;
-    right: 0;
+/*    right: 0;*/
     top: 13px;
 }
 .intro_title
